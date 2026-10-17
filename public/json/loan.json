@@ -1,0 +1,4 @@
+[
+  { "id": 1, "loanNumber": "LN-1001", "amount": 500000 },
+  { "id": 2, "loanNumber": "LN-1002", "amount": 750000 }
+]
